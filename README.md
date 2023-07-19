@@ -5,7 +5,7 @@
 
 * Uses Huffman Coding for Text Compression
 * Made with JAVASCRIPT , HTML and CSS
-* Website Link : 
+* Website Link : compress-it-65bit.netlify.app
 
 ## About
 
